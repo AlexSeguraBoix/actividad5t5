@@ -1,0 +1,136 @@
+:root{
+    --color-info: #91ff00;
+    --color-mates:#fff807;
+    --color-bio:#ff1b07;
+    --color-ef: #07ff0e;
+    --color-caste:#0772ff;
+    --color-religion:#ff07e4;
+    --color-gih:#3607ff;
+    --color-ingles:#07ffeb;
+    --color-inglesoral:#ff9a07;
+    --color-valen:#078dff;
+    --color-fiq:#8007ff;
+    --color-tutoria:#ff0779;
+
+}
+
+.color-info{
+    background-color:var(--color-info) ;
+    width: 50px;
+}
+
+.color-mates{
+    background-color: var(--color-mates);
+    width: 50px;
+}
+.color-bio{
+    background-color: var(--color-bio);
+    width: 50px;
+}
+.color-ef{
+    background-color: var(--color-ef);
+    width: 50px;
+}
+.color-caste{
+    background-color: var(--color-caste);
+    width: 50px;
+}
+.color-religion{
+    background-color: var(--color-religion);
+    width: 50px;
+}
+.color-gih{
+    background-color: var(--color-gih);
+    width: 50px;
+}
+.color-ingles{
+    background-color: var(--color-ingles);
+    width: 50px;
+}
+.color-inglesoral{
+    background-color: var(--color-inglesoral);
+    width: 50px;
+}
+.color-valen{
+    background-color: var(--color-valen);
+    width: 50px;
+}
+.color-fiq{
+    background-color: var(--color-fiq);
+    width: 50px;
+}
+.color-tutoria{
+    background-color: var(--color-tutoria);
+    width: 50px;
+}
+
+
+.info{
+    background-color: #91ff00;
+    font-family: 'Montserrat', sans-serif;
+}
+.mates{
+    background-color: #fff807;
+    font-family: 'Montserrat', sans-serif;
+}
+.bio{
+    background-color: #ff1b07;
+    font-family: 'Montserrat', sans-serif;
+}
+.ef{
+    background-color: #07ff0e;
+    font-family: 'Montserrat', sans-serif;
+}
+.caste{
+    background-color: #0772ff;
+    font-family: 'Montserrat', sans-serif;
+}
+.religion{
+    background-color: #ff07e4;
+    font-family: 'Montserrat', sans-serif;
+}
+.gih{
+    background-color: #3607ff;
+    font-family: 'Montserrat', sans-serif;
+}
+.ingles{
+    background-color: #07ffeb;
+    font-family: 'Montserrat', sans-serif;
+}
+.inglesoral{
+    background-color: #ff9a07;
+    font-family: 'Montserrat', sans-serif;
+}
+.valen{
+    background-color: #078dff;
+    font-family: 'Montserrat', sans-serif;
+}
+.fiq{
+    background-color: #8007ff;
+    font-family: 'Montserrat', sans-serif;
+}
+.tutoria{
+    background-color:#ff0779;
+    font-family: 'Montserrat', sans-serif;
+}
+.table-horario{
+    border-collapse: collapse;
+    text-align: center;
+    margin: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+.table-horario td, .table-horario th{
+    border: 1px solid black;
+    font-family: 'Montserrat', sans-serif;
+}
+.dias{
+    background-color:#c4bec1 ;
+    font-family: 'Montserrat', sans-serif;
+}
+.horario{
+    background-color:#58c4eb ;
+
+}
+.hora{
+    background-color:#bda6ed;
+}
